@@ -1,0 +1,13 @@
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/IDirectorFacade.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/model/Director.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/dao/BaseDAO.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/HelloBean.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/model/BaseModel.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/impl/HelloBeanImpl.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/dao/FilmDAO.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/dao/CinemaDAO.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/model/Cinema.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/model/Film.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/dao/DirectorDAO.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/dao/IBaseDAO.java
+/home/spin/Development/film-registry/ejb/src/main/java/ua/devknowledge/impl/DirectorFacade.java
